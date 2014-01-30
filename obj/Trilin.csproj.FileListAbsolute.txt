@@ -1,0 +1,12 @@
+E:\xmsim\Trilin\bin\Release\Trilin.exe.config
+E:\xmsim\Trilin\obj\Release\Trilin.exe
+E:\xmsim\Trilin\obj\Release\Trilin.pdb
+E:\xmsim\Trilin\bin\Debug\Trilin.exe.config
+E:\xmsim\Trilin\bin\Debug\Trilin.exe
+E:\xmsim\Trilin\bin\Debug\Trilin.pdb
+E:\xmsim\Trilin\obj\Debug\ResolveAssemblyReference.cache
+E:\xmsim\Trilin\obj\Debug\Trilin.frmTrilin.resources
+E:\xmsim\Trilin\obj\Debug\Trilin.Properties.Resources.resources
+E:\xmsim\Trilin\obj\Debug\Trilin.csproj.GenerateResource.Cache
+E:\xmsim\Trilin\obj\Debug\Trilin.exe
+E:\xmsim\Trilin\obj\Debug\Trilin.pdb
